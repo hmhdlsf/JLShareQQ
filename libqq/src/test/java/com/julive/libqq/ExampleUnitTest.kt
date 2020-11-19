@@ -1,4 +1,4 @@
-package com.julive.library
+package com.julive.libqq
 
 import org.junit.Test
 
